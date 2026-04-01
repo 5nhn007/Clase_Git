@@ -70,7 +70,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Melissa**:
 
--**Abdur**:
+-**Abdur**:   hello world ✌️😁
 
 -**Joel Ibarra**:
 
